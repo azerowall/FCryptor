@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>letter-x.png</file>
+        <file>open-lock.png</file>
+        <file>padlock.png</file>
+        <file>plus-symbol.png</file>
+    </qresource>
+</RCC>
